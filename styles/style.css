@@ -109,7 +109,6 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  width: 175px;
   color: #2f80ed;
   border: 1px red solid;
 }
@@ -248,7 +247,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-color: #1f1f1f
+  background-color: #1f1f1f;
 }
 
 .section-title_theme_dark {
